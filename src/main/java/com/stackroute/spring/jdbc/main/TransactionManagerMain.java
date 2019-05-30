@@ -24,7 +24,7 @@ public class TransactionManagerMain {
 
 	private static Movie createDummyCustomer() {
 		Movie movie = new Movie();
-		movie.setMovie_Id(3);
+		movie.setMovie_Id(1);
 		movie.setMovie_name("Naa  Peeru Surya");
 		movie.setReleaseYear(2018);
 		movie.setRating((float) 9.3);
