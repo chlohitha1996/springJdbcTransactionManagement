@@ -32,7 +32,7 @@ public class TransactionManagerMain {
 
 
 		Actor actor = new Actor();
-		//actor.setMovie_Id(3);
+		//actor.setMovie_Id(1);
 		actor.setLeadActor("Allu Arjun");
 		actor.setLeadActress("Anu Emanuel");
 		actor.setMovie_Id(movie.getMovie_Id());
